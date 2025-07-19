@@ -18,6 +18,8 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto,
 
 - [@Daniel](https://www.github.com/octokatherine)
 
+- [@Simon](https://www.github.com/octokatherine)
+
 
 
 ## Instalación
