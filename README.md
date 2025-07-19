@@ -18,11 +18,11 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto,
 
 - [@Daniel](https://www.github.com/octokatherine)
 
-- [@Smon](https://www.github.com/octokatherine)
+- [@Siimon](https://www.github.com/octokatherine)
 
-- [@Simn](https://www.github.com/octokatherine)
+- [@Sim0n](https://www.github.com/octokatherine)
 
-- [@Sion](https://www.github.com/octokatherine)
+- [@Sinon](https://www.github.com/octokatherine)
 
 
 ## Instalación
