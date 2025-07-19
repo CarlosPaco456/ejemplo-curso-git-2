@@ -16,8 +16,6 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto,
 
 - [@Carlos](https://www.github.com/octokatherine)
 
-- [@Juan](https://www.github.com/octokatherine)
-
 
 
 
