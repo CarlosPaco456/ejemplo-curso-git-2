@@ -44,6 +44,18 @@ Ininicaliza el proyecto con el siguiente comando
 npm run dev
 ```
 
+
+
+Hace un buid del proyecto
+
+
+
+
+
+```bash
+npm run build
+```
+
 ## Logo de GIT
 
 
